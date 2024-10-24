@@ -2,7 +2,7 @@
 
 First clone the project:
 ```bash
-git clone https://github.com/theskumar/python-dotenv.git
+git clone https://github.com/abouba1997/spotter-ai-backend
 ```
 
 Then here are the steps to install the project and run it:
